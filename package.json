@@ -7,6 +7,7 @@
         "mvc", "framework", "lightweight", "base", "events", "class", "data",
         "server", "client", "browser"
     ],
+    "license" :"MIT",
     "version": "1.0.0",
     "repository" : {
         "type" : "git",
